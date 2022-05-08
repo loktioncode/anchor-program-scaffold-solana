@@ -7,4 +7,4 @@ this program will store tweets on the blockchain
 ## in solana everything is an account that pays rent, always keep that in mind
 
 ```sh
-the logic is inside src/lib.rs
+the program  is inside programs/solana_twitter/src/
